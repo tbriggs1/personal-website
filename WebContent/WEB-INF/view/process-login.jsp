@@ -4,8 +4,7 @@
 		<title>Home</title>
 	</head>
 	<body>
-		<h1>Welcome to Tom's Server Website</h1>
+		<h1>${user.firstName}</h1>
 		
-		<a href="user/showForm">Login</a>
 	</body>
 </html>
